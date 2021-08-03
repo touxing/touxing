@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 
 
-![hotsuitor's github stats](https://github-readme-stats.vercel.app/api?username=hotsuitor&show_icons=true&theme=radical) 
+![hotsuitor's github stats](https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&theme=radical) 
 
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
