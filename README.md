@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: boring man in some times -->
 
 <a href="https://github.com/touxing/touxing">
-  ![touxing's github stats](https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&theme=radical)  
+  <img src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&theme=radical” alt="touxing's github stats" />
 </a>
+
+<!-- example card
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical) 
+-->
