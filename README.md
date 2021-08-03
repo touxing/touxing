@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/touxing/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.touxing.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Touxing's github stats" />
