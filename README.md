@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/touxing/touxing">
-  <img src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=material-palenight” alt="touxing's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=material-palenight” alt="touxing's github stats" />
 </a>
 
 <!-- example card
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical) 
 -->
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touxing&theme=material-palenight" />
+</a>
