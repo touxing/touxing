@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: boring man in some times
 -->
 
-<a href="https://github.com/touxing/touxing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=material-palenight” alt="touxing's github stats" />
-</a>
-
-
 <!--
 ![hotsuitor's github stats](https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&theme=radical) 
 -->
 
-<a href="https://github.com/touxing/touxing" style="display:block;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=material-palenight" />
-</a>
+<div style="display:flex;">
+  <a href="https://github.com/touxing/touxing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=material-palenight” alt="touxing's github stats" />
+  </a>
+
+  <a href="https://github.com/touxing/touxing" style="display:block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=material-palenight" />
+  </a>
+</div>
   
 <div style="display:flex;">
   <a href="https://github.com/touxing/echarts3-chinese-map-drill-down">
