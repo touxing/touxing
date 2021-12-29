@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=material-palenight” alt="touxing's github stats" />
   </a>
 
-  <a href="https://github.com/touxing/touxing" style="display:block;">
+  <a href="https://github.com/touxing/touxing">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=material-palenight" />
   </a>
 </div>
