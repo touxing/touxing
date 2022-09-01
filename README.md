@@ -15,26 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: boring man in some times
 -->
 
-<!--
-![hotsuitor's github stats](https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&theme=radical) 
--->
+![hotsuitor's github stats](https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 <div style="display:flex;">
   <a href="https://github.com/touxing/touxing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=material-palenight” alt="touxing's github stats" />
-  </a>
-
-  <a href="https://github.com/touxing/touxing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=gruvbox" />
   </a>
 </div>
   
 <div style="display:flex;">
   <a href="https://github.com/touxing/echarts3-chinese-map-drill-down">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touxing&repo=echarts3-chinese-map-drill-down&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touxing&repo=echarts3-chinese-map-drill-down&theme=gruvbox" />
   </a>
 
   <a href="https://github.com/touxing/blog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touxing&repo=blog&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touxing&repo=blog&theme=gruvbox" />
   </a>
 </div>
