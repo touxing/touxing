@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </div>
   
-<div style="display:flex;">
+<!-- <div style="display:flex;">
   <a href="https://github.com/touxing/echarts3-chinese-map-drill-down">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touxing&repo=echarts3-chinese-map-drill-down&theme=gruvbox" />
   </a>
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/touxing/blog">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touxing&repo=blog&theme=gruvbox" />
   </a>
-</div>
+</div> -->
