@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'am touxing(hotsuitor).
 
 <!--
 **touxing/touxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: boring man in some times
 -->
-
+<!--
 ![hotsuitor's github stats](https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=gruvbox)
-
-<div style="display:flex;">
+-->
+<div style="display:flex; align-items:center;">
+   <span>
+     <img src="https://github-readme-stats.vercel.app/api?username=touxing&show_icons=true&include_all_commits=true&theme=gruvbox" alt="hotsuitor's github stats" />
+   </span>
   <a href="https://github.com/touxing/touxing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=gruvbox" />
   </a>
 </div>
   
