@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![Touxing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hotsuitor)](https://github.com/anuraghazra/github-readme-stats)
+[![Touxing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hotsuitor&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- <div style="display:flex;">
   <a href="https://github.com/touxing/echarts3-chinese-map-drill-down">
