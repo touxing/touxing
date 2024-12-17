@@ -25,6 +25,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touxing&layout=compact&theme=gruvbox" />
   </a>
 </div>
+
+[![Touxing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=touxing)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- <div style="display:flex;">
   <a href="https://github.com/touxing/echarts3-chinese-map-drill-down">
